@@ -42,4 +42,4 @@ jobs:
       #     -H "Tags: car" 
       #     -H "Click: https://github.com/modernmediagrp/car-repo-scraper/commit/${{ steps.commit_and_push.outputs.commit_sha }}/" 
       #     -d "Data updated" 
-      #     ntfy.sh/utah-car-repos
+      #     ntfy.sh/car-repos
